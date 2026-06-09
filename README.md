@@ -4,10 +4,6 @@
 
 This project focuses on identifying the critical drivers of customer churn within a subscription-based service. By leveraging a dataset of 5,000 records, I developed an end-to-end machine learning pipeline to preprocess data, engineer relevant features, and predict subscriber retention. The objective was to translate complex model outputs into actionable insights that support strategic business decision-making.
 
-## 📈 Dashboard Preview
-
-*(Replace the URL below with your actual image address after uploading the screenshot to your repo)*
-
 ## 🛠️ Technical Stack
 
 * **Languages:** Python
